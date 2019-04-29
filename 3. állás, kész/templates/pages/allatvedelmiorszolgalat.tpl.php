@@ -1,0 +1,18 @@
+<h2>Állatvédelmi Őrszolgálat története…</h2>
+			<h1>Állatvédelmi Őrszolgálat Bács-Kiskun Megye</h1>
+			<p>Az Állatvédelmi Őrszolgálatot Magyarországon elsőként Kecskeméten, 2006-ban Tőzsér Judit a Gong Rádió ügyvezető igazgatója, lelkes állatvédő szervezte meg , a Bács-Kiskun Megyei Rendőr-főkapitányság, a Városi Rendőrkapitányág, és a Bács-Kiskun Megyei Mezőgazdasági Szakigazgatási Hivatal vezetőivel közösen, melyhez hamarosan csatlakozott a Polgárőrség is.</p>
+			<p>Az Állatvédelmi Őrszolgálat azért jött létre, hogy segítséget és útmutatást nyújtson azoknak az állampolgároknak, akik környezetükben állatkínzást tapasztalnak, valamint a törvény adta lehetőségekkel hatékonyan lépjen fel az állatkínzókkal szemben. Munkánkkal többek között azt szeretnénk elérni, hogy az állatokkal való kíméletes bánásmód, tudatos magatartás és a felelős, humánus állattartási, állatvédelmi kultúra minél szélesebb körben elterjedjen, hogy kedvenceinkre mihamarabb szebb, biztonságosabb, szeretet teljesebb élet várjon. Az Őrszolgálat fenntartását alapítványunk finanszírozza, az ellenőrzéseket és az ezzel járó feladatokat is az alapítvány munkatársai, végzik, több aktivista segítségével.</p>
+			<p>A bejelentéseket az Állatvédelmi Őrszolgálat számán lehet megtenni a +36-20 476-96-93  telefonszámon vagy e-mailen az orszolgalat@mentsvar.hu ill. info@mentsvar.hu címen.</p>
+			<p>A gyakorlat: Amennyiben a lakosság állatkínzást jelent be, kiszállunk a helyszínre ellenőrzés céljából. Ha a tulajdonos nincs odahaza, értesítést hagyunk melyben tájékoztatjuk, hogy mikor fogjuk legközelebb felkeresni. Amennyiben felmerül az állatkínzás gyanúja, bejelentést teszünk és az illetékes jegyző intézkedését kérjük, ill. eljárást kezdeményezünk a Rendőrségen, ezáltal az állatok védelmében jogi úton szerzünk érvényt az állatvédelmi törvény betartásának. Súlyosabb esetekben – a rendőrségi feljelentés után – a bíróság ítéli meg a büntetést. Minden olyan kirívó esetet, amely a tudomásunkra jut, megelőzés és szemléletformálás céljából továbbítunk a médiának! Az emberek ugyanis csak így láthatják és szerezhetnek tudomást egy-egy szörnyű állatkínzásról. Kérünk minden jóérzésű embert aki a környezetében rossz körülmények között tartott állatról tud , jelentse Őrszolgálatunknak a fenti telefonszámon vagy email címen!</p>
+			<p>Köszönjük segítségüket!              Együtt, többen vagyunk és több állatot menthetünk meg!!</p>
+			<p>A továbbiakban a Bács-Kiskun Megyei Állatvédelmi Őrszolgálat által rossz tartási körülmények miatt elkobzott állatot mutatunk be:</p>
+			<img src="orszolg\DSC06962-600x450.jpg" id="orkep">
+			<img src="orszolg\DSC06971-600x450.jpg" id="orkep">
+			<img src="orszolg\DSC06973-600x450.jpg" id="orkep">
+			<img src="orszolg\DSC07223-600x450.jpg" id="orkep">
+			<img src="orszolg\DSC07248-1024x577.jpg" id="orkep">
+			<img src="orszolg\DSC07787-Small-600x450.jpg" id="orkep">
+			<img src="orszolg\DSC07800-Small.jpg" id="orkep">
+			<a id="linkek" href="http://elelmiszerlanc.kormany.hu/av-ebtartas"><h1>A kutyatartással kapcsolatos legfontosabb előírások…</h1></a>
+			<a id="linkek" href="http://www.mentsvar.hu/wp-content/uploads/2017/01/%C3%81llatv%C3%A9delmi-t%C3%B6rv%C3%A9ny.pdf"><h1>Állatvédelmi törvény</h1></a>
+			<a id="linkek" href="http://www.mentsvar.hu/wp-content/uploads/2017/01/Egyes-%C3%A1llatv%C3%A9delmi-szab%C3%A1lyok-m%C3%B3dosultak-2016-01-01.pdf"><h1>Egyes állatvédelmi szabályok módosultak 2016 01 01</h1></a>

@@ -1,0 +1,105 @@
+body{
+	background-color:#ffc;
+}
+#kep2{
+	display:inline;
+	float: right;
+}
+#kep1{
+	display:inline;
+	float:left;
+}
+#cim {
+	display:inline;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+}
+#cím1 table{
+	margin: 0 auto 0 auto;
+	align:center;
+}
+#menu1 {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0 0 70px 0;
+    list-style-type: none;
+    border-top: 0.25em solid #b3b3b3;
+    border-bottom: 0.25em solid #b3b3b3;
+}
+#menu1 li { display:inline }
+
+#menu1 a {
+  float:left;
+  padding: 8px 10px;
+  margin: 8px 0 8px 5px;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+#bej {
+	float:right;
+}
+#tartalom {
+	padding: 50px;
+}
+#info td{
+	width:70px;
+	float:left;
+	background-color:#fff;
+	border:0.15em solid #000;
+}
+#info th{
+	border:0.15em solid #000;
+}
+#őrszolgálat th,td{
+	float:center;
+}
+#őrszolgálat{
+	background-color:#fff;
+	border:0.25em solid #000;
+	width: 317px;
+	text-align:center;
+}
+#info {
+	background-color:#fff;
+	border:10px;
+	border:0.25em solid #000;
+}
+#elérhetőség{
+	margin: 300px 0 0 0;
+	width: 317px;
+	float:left;
+}
+#oldalmenu{
+	width: 317px;
+	float:left;
+	margin-right:25px;
+	height: 935px;
+	border-style:solid;
+	border:"2";
+}
+#oldalmenu table{
+	margin: 0 auto 0 auto;
+	align:center;
+}
+#kep3{
+	width: 305px;
+}
+#ado1{
+	text-align:center;
+	color:red;
+}
+#google{
+	width: 305px;
+}
+#orkep{
+	width:200px;
+	height:150px;
+}
+#linkek{
+	text-decoration: none;
+	color:red;
+	text-align:center;
+}
